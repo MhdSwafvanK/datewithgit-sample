@@ -1,0 +1,48 @@
+[33mcommit e4085babfd82603d544f9e93525a495af41456da[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m)[m
+Author: Muhammed Swafvan K <swafvan4002@gmail.com>
+Date:   Mon Jul 14 07:46:51 2025 +0530
+
+    hello file modified
+
+[33mcommit 18344df1cf18420a992df75894971b35401fe511[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Muhammed Swafvan K <swafvan4002@gmail.com>
+Date:   Mon Jul 14 07:39:40 2025 +0530
+
+    hey file modified
+
+[33mcommit 6027c79db9f1b7cac8d31821da7463d3c87fd7b3[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: d9d787f 27da0f8
+Author: Muhammed Swafvan K <swafvan4002@gmail.com>
+Date:   Mon Jul 14 07:32:58 2025 +0530
+
+    WIP on feature: d9d787f hey file edited
+
+[33mcommit 27da0f84f1faaffff4b6ae667a0347003a8337f6[m
+Author: Muhammed Swafvan K <swafvan4002@gmail.com>
+Date:   Mon Jul 14 07:32:58 2025 +0530
+
+    index on feature: d9d787f hey file edited
+
+[33mcommit d9d787fe7c520b6146ba50b8a1adb87292c2e034[m
+Author: Muhammed Swafvan K <swafvan4002@gmail.com>
+Date:   Mon Jul 14 07:11:00 2025 +0530
+
+    hey file edited
+
+[33mcommit e270dbe333bedc8c23b3c1df8de246bdca86e649[m
+Author: Muhammed Swafvan K <swafvan4002@gmail.com>
+Date:   Mon Jul 14 06:56:05 2025 +0530
+
+    Second file added
+
+[33mcommit cd40ecd5ad3f73c6f302f6cfd3a3d9f2973bfe85[m
+Author: Muhammed Swafvan K <swafvan4002@gmail.com>
+Date:   Sun Jul 13 07:17:43 2025 +0530
+
+    added something
+
+[33mcommit 2dc2401925cf3447c5791043212cfa46a1ccebb7[m
+Author: Muhammed Swafvan K <swafvan4002@gmail.com>
+Date:   Sun Jul 13 07:07:03 2025 +0530
+
+    First Commit
